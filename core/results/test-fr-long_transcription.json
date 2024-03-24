@@ -1,0 +1,47 @@
+{
+    "text": " Ce n'est pas au niveau des agents du son exp\u00e9rience, c'est au niveau des agents du son exp\u00e9rience.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 24.32,
+            "text": " Ce n'est pas au niveau des agents du son exp\u00e9rience, c'est au niveau des agents du son exp\u00e9rience.",
+            "tokens": [
+                50364,
+                8257,
+                297,
+                6,
+                377,
+                1736,
+                1609,
+                19144,
+                730,
+                12554,
+                1581,
+                1872,
+                1278,
+                35627,
+                11,
+                269,
+                6,
+                377,
+                1609,
+                19144,
+                730,
+                12554,
+                1581,
+                1872,
+                1278,
+                35627,
+                13,
+                51580
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8152283635632745,
+            "compression_ratio": 1.5151515151515151,
+            "no_speech_prob": 0.03482304513454437
+        }
+    ],
+    "language": "fr"
+}
