@@ -6,7 +6,7 @@ This tool utilizes OpenAI's Whisper model to transcribe audio files to text and 
 ## Setup
 
 1. **Clone the Repository**
-git clone https://github.com/hossamEZZOUKH/AI_Tools.git
+git clone https://github.com/hossamEZZOUKH/Whisper-transcriber-openai.git
 cd AI_Tools
 
 
